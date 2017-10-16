@@ -1,0 +1,4 @@
+This project uses MySQL Database.MySQL tables are used to store login credentials, Doctors list, patient list, and doctor allotment. 
+The last table basically stores patient's name , alloted doctor's name , Patient's problems and doctor's suggrstions. 
+Patient' list is visible to doctor and doctor's list is visible to patients.
+User needs to register with unique username and password .
